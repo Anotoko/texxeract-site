@@ -1,1 +1,20 @@
+body{
+  margin:0;
+  background:#0b0f17;
+  color:#eaf0ff;
+  font-family: system-ui, -apple-system, "Noto Sans JP", sans-serif;
+}
+.container{
+  width:min(900px, 92vw);
+  margin: 24px auto;
+}
+.sub{ color: rgba(234,240,255,.7); }
+a{ color:#66e3ff; }
+.card{
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(255,255,255,.06);
+}
 
